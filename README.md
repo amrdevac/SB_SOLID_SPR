@@ -7,7 +7,7 @@ we are gonna implement the Single Responsibility Principle method
 
 * You can find me  :
   * Instagram  @amrullahdev
-  * Twitter  @devactore 
+  * Twitter  @devactor
 * Contact Me :
   * amrullahdev@gmail.com
   * amrullahdev@yahoo.com
